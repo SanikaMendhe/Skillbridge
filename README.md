@@ -325,3 +325,10 @@ Open the project folder in VS Code.
 ```bash
 python -m v
 ```
+## 👩‍💻 Author
+
+**Sanika Mendhe**
+---
+## 📌 Conclusion
+
+SkillBridge provides a unified platform for students to understand their skills, identify skill gaps, and prepare for internships and placements. By combining skill mapping, assessments, personalized learning roadmaps, career information, and college-level skill-gap analysis, the platform helps students make informed decisions about their career development and helps institutions better understand training needs.
