@@ -327,7 +327,7 @@ python -m v
 ```
 ## 👩‍💻 Author
 
-**Sanika Mendhe**
+Sanika Mendhe
 ---
 ## 📌 Conclusion
 
